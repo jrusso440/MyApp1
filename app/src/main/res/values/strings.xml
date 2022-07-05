@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyApp1</string>
+    <string name = "Dollars">Dollars</string>
+    <string name = "Euros">Euros</string>
+    <string name = "Title">Concurrency Converter</string>
+
 </resources>
